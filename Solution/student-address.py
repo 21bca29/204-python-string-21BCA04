@@ -19,6 +19,7 @@ def stdadd():
 stdadd();
 for i in range(5):
     print(std[i],"-",add[i])
+    
 
 
 
